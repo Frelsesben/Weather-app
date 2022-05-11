@@ -1,0 +1,81 @@
+body {
+  background: #f1c6de;
+}
+
+h1 {
+  color: #6a1051;
+}
+
+h2 {
+  color: #a05f96;
+}
+
+h3 {
+  font-style: italic;
+  color: #db75c5;
+}
+
+h4 {
+  color: #d291bc;
+}
+
+h5 {
+  color: #d291bc;
+  font-weight: bold;
+}
+
+h6 {
+  font-size: small;
+  font-weight: normal;
+  color: #957dad;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: center;
+  margin: 5px;
+  padding: 5px;
+}
+
+header {
+  margin: 10px;
+  padding: 10px;
+}
+
+footer {
+  margin: 5px;
+  padding: 5px;
+}
+
+a {
+  color: #db75c5;
+}
+
+a:hover {
+  color: #ffe7ad;
+}
+
+.degree-link {
+  color: #6a1051;
+  font-size: smaller;
+}
+
+#lemonade {
+  max-width: 40%;
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+
+.weather-app {
+  border: 1px solid #f7e8f0;
+  margin: 15px auto;
+  border-radius: 10px;
+  max-width: 1000px;
+  font-family: Arial, Helvetica, sans-serif;
+  background: white;
+}
